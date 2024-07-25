@@ -1,0 +1,15 @@
+port: "8080"
+postgres:
+  host: ""
+  port: ""
+  dbName: ""
+
+accessTokenLifeTime: "1h"
+
+dailyBonuses:
+  1: 50
+  2: 100
+  3: 250
+
+telegramBotUpdate: 60
+logsChatId: ""

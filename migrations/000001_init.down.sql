@@ -1,0 +1,11 @@
+DROP TABLE Users;
+DROP TABLE Referrals;
+DROP TABLE All_Time_Leaders;
+DROP TABLE Current_Week_Leaders;
+DROP TABLE Historic_Week_Leaders;
+DROP TABLE Current_Month_Leaders;
+DROP TABLE Historic_Month_Leaders;
+DROP TABLE Rating_updates;
+DROP TABLE Tasks;
+DROP TABLE Tasks_updates;
+DROP TABLE Transactions;
